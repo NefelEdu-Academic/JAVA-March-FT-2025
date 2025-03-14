@@ -1,6 +1,11 @@
 # JAVA-March-FT-2025
 
 ![Alt Text](https://th.bing.com/th/id/R.49e874ad22c1d7200fb77317a3329020?rik=MH7pH7ix2jN%2fSw&pid=ImgRaw&r=0) 
+
+# Welcome to Instructor Aly GitHub Repo
+ 
+## clone/fork this repo, then ' git pull ` to get the latest changes
+
 # Introduction
 Welcome, future Java wizards! 🧙‍♂️🧙‍♀️ Get ready to embark on an epic journey through the magical world of Java programming. This bootcamp is designed to transform you into a skilled Java developer, capable of tackling real-world projects with confidence and finesse.
 
